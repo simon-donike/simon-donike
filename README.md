@@ -1,4 +1,6 @@
 ### Hi there, I'm Simon 👋
+<h3 style="text-align: center;">Hi there, I'm Simon 👋</h3>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white" />
