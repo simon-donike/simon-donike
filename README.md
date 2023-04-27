@@ -1,8 +1,6 @@
-### Hi there, I'm Simon 👋
-<h3 style="text-align: center;">Hi there, I'm Simon 👋</h3>
 
 <p align="center">
-// Hi there, I'm Simon 👋
+Hi there, I'm Simon 👋
 </p>
 
 
