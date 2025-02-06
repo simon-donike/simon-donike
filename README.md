@@ -11,9 +11,10 @@ Hi there, I'm Simon 👋
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
+<!---!
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=simon-donike" />
-</p>
+</p>-->
 
 <!---![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=simon-donike)-->
 <!---![](https://komarev.com/ghpvc/?simon-donike)-->
