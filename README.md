@@ -21,12 +21,4 @@ Hi there, I'm Simon 👋
 <!---![](https://github-readme-activity-graph.cyclic.app/graph?username=simon-donike)-->
 <!---![](20230422_Europe.jpg)-->
 
-## Star History
-
-<a href="https://www.star-history.com/#simon-donike/Remote-Sensing-SRGAN&ESAOpenSR/opensr-model&ESAOpenSR/SEN2SR&ESAOpenSR/opensr-utils&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=simon-donike/Remote-Sensing-SRGAN,ESAOpenSR/opensr-model,ESAOpenSR/SEN2SR,ESAOpenSR/opensr-utils&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=simon-donike/Remote-Sensing-SRGAN,ESAOpenSR/opensr-model,ESAOpenSR/SEN2SR,ESAOpenSR/opensr-utils&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=simon-donike/Remote-Sensing-SRGAN,ESAOpenSR/opensr-model,ESAOpenSR/SEN2SR,ESAOpenSR/opensr-utils&type=Date" />
- </picture>
-</a>
+[![Star History Chart](https://api.star-history.com/svg?repos=simon-donike/Remote-Sensing-SRGAN,ESAOpenSR/opensr-model,ESAOpenSR/SEN2SR,ESAOpenSR/opensr-utils&type=Date)](https://www.star-history.com/#simon-donike/Remote-Sensing-SRGAN&ESAOpenSR/opensr-model&ESAOpenSR/SEN2SR&ESAOpenSR/opensr-utils&Date)
