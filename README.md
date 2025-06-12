@@ -21,3 +21,4 @@ Hi there, I'm Simon 👋
 <!---![](https://github-readme-activity-graph.cyclic.app/graph?username=simon-donike)-->
 <!---![](20230422_Europe.jpg)-->
 
+[![Star History Chart](https://api.star-history.com/svg?repos=simon-donike/Remote-Sensing-SRGAN,ESAOpenSR/opensr-model,ESAOpenSR/SEN2SR,ESAOpenSR/opensr-utils&type=Date)](https://www.star-history.com/#simon-donike/Remote-Sensing-SRGAN&ESAOpenSR/opensr-model&ESAOpenSR/SEN2SR&ESAOpenSR/opensr-utils&Date)
