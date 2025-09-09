@@ -1,32 +1,25 @@
 
 <p align="center">
-Hi there, I'm Simon, a PhD Researcher in Artificial Intelligence for Remote Sensing 👋  
+Hi there, I'm Simon, a PhD Researcher in Artificial Intelligence for Remote Sensing at the University of Valencia 👋  
 </p>
 
 ## 🔬 Research Focus  
-- **Generative AI for Remote Sensing**  
-  - Latent and pixel-space Diffusion Models  
-  - ControlNet-style conditioning, Classifier-Free Guidance  
-  - GAN-based multispectral band synthesis (e.g., NIR-GAN)
-  - Segmentation, Object/Instance Detection Models (Mask-RCNN, DeepLab, Unets, etc)
-- **Benchmarking & Evaluation**  
-  - OpenSR-Test framework (custom metrics for spectral fidelity & hallucination)  
-  - Wald-protocol-based SR validation  
-- **Downstream Applications**  
-  - Flood and Fire extent mapping  
-  - Building footprint segmentation  
-  - Road surface change detection
+
+- 🧠 **Generative AI for EO** – Latent & pixel-space diffusion models, ControlNet-style conditioning, GAN-based band synthesis (NIR-GAN)  
+- 📊 **Benchmarking & Evaluation** – OpenSR-Test metrics suite, Wald-protocol-based validation for Sentinel-2 SR  
+- 🌍 **Applications** – Flood/fire mapping, building segmentation, road surface change detection  
 
 
-## 🛠 Tech Stack  
+## 🛠 Tech Stack   
 
-**Languages & Frameworks**  
-- **Python**: PyTorch, PyTorch Lightning, scikit-learn, OpenCV, PIL, HuggingFace Diffusers, etc.
-- **Geospatial Tools**: xarray, STAC, GDAL, rasterio, shapely, QGIS, GEE  
-- **MLOps & Tracking**: Weights & Biases, Dataset Standards  
-- **Packaging & DevOps**: setuptools, GitHub Actions, Docker, SSH/remote training on multi GPU clusters 
+- 🐍 **Python**: PyTorch, PyTorch Lightning, scikit-learn, OpenCV, PIL, HuggingFace Diffusers
+- 🧠 **Deep Learning**: Diffusion models, VAEs/Autoencoders, UNets, GANs, multi-modal conditioning (ControlNet-style), Segmentation and Instance/Object Detection models 
+- 🗺 **Geospatial Tools**: xarray, STAC, GDAL, rasterio, shapely, QGIS, Google Earth Engine  
+- 📈 **MLOps & Tracking**: Weights & Biases, DVC, dataset versioning & reproducibility workflows  
+- 📦 **Packaging & DevOps**: setuptools, GitHub Actions, Docker, SSH/remote training, CI/CD pipelines  
+- ⚡ **High-Performance Computing**: Multi-GPU training, Slurm orchestration, remote HPC cluster management  
 
----
+
 
 ## 🌐 Connect  
 
