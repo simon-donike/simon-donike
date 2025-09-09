@@ -3,8 +3,6 @@
 Hi there, I'm Simon, a PhD Researcher in Artificial Intelligence for Remote Sensing 👋  
 </p>
 
----
-
 ## 🔬 Research Focus  
 - **Generative AI for Remote Sensing**  
   - Latent and pixel-space Diffusion Models  
@@ -18,8 +16,7 @@ Hi there, I'm Simon, a PhD Researcher in Artificial Intelligence for Remote Sens
   - Flood and Fire extent mapping  
   - Building footprint segmentation  
   - Road surface change detection
- 
----
+
 
 ## 🛠 Tech Stack  
 
