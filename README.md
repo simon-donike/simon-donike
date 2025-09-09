@@ -21,14 +21,6 @@ Hi there, I'm Simon, a PhD Researcher in Artificial Intelligence for Remote Sens
 
 
 
-## 🌐 Connect  
-
-[![Project Website](https://img.shields.io/badge/Website-opensr.eu-blue?style=flat&logo=google-chrome)](https://opensr.eu)
-[![Personal Website](https://img.shields.io/badge/Homepage-donike.net-darkgreen?style=flat&logo=google-chrome)](https://donike.net)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-simon--donike-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/simon-donike)
-
-
-
 
 <!---!
 <p align="center">
@@ -40,4 +32,10 @@ Hi there, I'm Simon, a PhD Researcher in Artificial Intelligence for Remote Sens
 <!---![](https://github-readme-activity-graph.cyclic.app/graph?username=simon-donike)-->
 <!---![](20230422_Europe.jpg)-->
 
-[![Star History Chart](https://api.star-history.com/svg?repos=simon-donike/Remote-Sensing-SRGAN,ESAOpenSR/opensr-model,ESAOpenSR/SEN2SR,ESAOpenSR/opensr-utils&type=Date)](https://www.star-history.com/#simon-donike/Remote-Sensing-SRGAN&ESAOpenSR/opensr-model&ESAOpenSR/SEN2SR&ESAOpenSR/opensr-utils&Date)
+## ⭐ Star History  
+
+<p align="center">
+  <a href="https://www.star-history.com/#simon-donike/Remote-Sensing-SRGAN&ESAOpenSR/opensr-model&ESAOpenSR/SEN2SR&ESAOpenSR/opensr-utils&Date">
+    <img src="https://api.star-history.com/svg?repos=simon-donike/Remote-Sensing-SRGAN,ESAOpenSR/opensr-model,ESAOpenSR/SEN2SR,ESAOpenSR/opensr-utils&type=Date" width="60%">
+  </a>
+</p>
