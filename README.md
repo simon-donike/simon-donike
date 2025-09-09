@@ -1,11 +1,7 @@
 
 <p align="center">
-Hi there, I'm Simon 👋  
+Hi there, I'm Simon, a PhD Researcher in Artificial Intelligence for Remote Sensing 👋  
 </p>
-
-
-🎓 **PhD Researcher in Artificial Intelligence**  
-I work on **generative models** for Earth Observation (EO), currently focusing on **latent diffusion** and **super-resolution** of Sentinel-2 satellite imagery.  My research bridges **deep learning** and **geospatial analysis**, aiming to make SR models **trustworthy, reproducible, and operationally useful** for real-world applications like flood mapping, building segmentation, and disaster response.
 
 ---
 
