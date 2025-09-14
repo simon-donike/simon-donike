@@ -32,16 +32,18 @@ Hi there, I'm Simon, a PhD Researcher in Artificial Intelligence for Remote Sens
 <!---![](https://github-readme-activity-graph.cyclic.app/graph?username=simon-donike)-->
 <!---![](20230422_Europe.jpg)-->
 
+<!---!
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=simon-donike" />
+</p>-->
+
+<!---![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=simon-donike)-->
+<!---![](https://komarev.com/ghpvc/?simon-donike)-->
+<!---![](https://github-readme-activity-graph.cyclic.app/graph?username=simon-donike)-->
+<!---![](20230422_Europe.jpg)-->
+
 <p align="center">
   <a href="https://www.star-history.com/#simon-donike/Remote-Sensing-SRGAN&ESAOpenSR/opensr-model&ESAOpenSR/SEN2SR&ESAOpenSR/opensr-utils&Date">
-## Star History
-
-<a href="https://www.star-history.com/#simon-donike/Remote-Sensing-SRGAN&ESAOpenSR/opensr-model&ESAOpenSR/SEN2SR&ESAOpenSR/opensr-utils&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=simon-donike/Remote-Sensing-SRGAN,ESAOpenSR/opensr-model,ESAOpenSR/SEN2SR,ESAOpenSR/opensr-utils&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=simon-donike/Remote-Sensing-SRGAN,ESAOpenSR/opensr-model,ESAOpenSR/SEN2SR,ESAOpenSR/opensr-utils&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=simon-donike/Remote-Sensing-SRGAN,ESAOpenSR/opensr-model,ESAOpenSR/SEN2SR,ESAOpenSR/opensr-utils&type=Date" />
- </picture>
-</a>
+    <img src="https://api.star-history.com/svg?repos=simon-donike/Remote-Sensing-SRGAN,ESAOpenSR/opensr-model,ESAOpenSR/SEN2SR,ESAOpenSR/opensr-utils&type=Date" width="60%">
   </a>
 </p>
