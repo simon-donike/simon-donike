@@ -44,6 +44,6 @@ Hi there, I'm Simon, a PhD Researcher in Artificial Intelligence for Remote Sens
 
 <p align="center">
   <a href="https://www.star-history.com/#simon-donike/Remote-Sensing-SRGAN&ESAOpenSR/opensr-model&ESAOpenSR/SEN2SR&ESAOpenSR/opensr-utils&Date">
-    <img src="https://api.star-history.com/svg?repos=simon-donike/Remote-Sensing-SRGAN,ESAOpenSR/opensr-model,ESAOpenSR/SEN2SR,ESAOpenSR/opensr-utils&type=Date" width="60%">
+    <img src="https://api.star-history.com/svg?repos=simon-donike/Remote-Sensing-SRGAN,ESAOpenSR/opensr-model,ESAOpenSR/SEN2SR,ESAOpenSR/opensr-utils&type=Date" width="75%">
   </a>
 </p>
