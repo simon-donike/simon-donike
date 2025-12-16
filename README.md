@@ -16,8 +16,8 @@ Hi there, I'm Simon, a PhD Researcher in Artificial Intelligence for Remote Sens
 - 🧠 **Deep Learning**: Diffusion models, VAEs/Autoencoders, UNets, GANs, multi-modal conditioning, Segmentation and Instance/Object Detection 
 - 🗺 **Geospatial Tools**: xarray, STAC, GDAL, rasterio, shapely, QGIS, Google Earth Engine  
 - 📈 **MLOps & Tracking**: Weights & Biases, dataset versioning & reproducibility workflows  
-- 📦 **Packaging & DevOps**: setuptools, GitHub Actions, Docker, SSH/remote training, CI/CD pipelines  
-- ⚡ **High-Performance Computing**: Multi-GPU training and inference, Slurm orchestration, remote HPC cluster management  
+- 📦 **Packaging & DevOps**: setuptools, GitHub Actions, Docker, CI/CD pipelines, pytest
+- ⚡ **High-Performance Computing**: SSH/remote training, Multi-GPU training and inference, Slurm orchestration, remote HPC cluster management  
 
 
 
